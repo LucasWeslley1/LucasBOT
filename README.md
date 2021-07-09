@@ -25,11 +25,11 @@
 > bash install.sh
 ```
 
-### Para rodar
+### Para Iniciar o Bot
 ```bash
 > npm start
 ```
-### Para Usar PM2
+### Para Usar PM2 (O BOT Não irá cair com esse comando!)
 ```bash
 > npm i -g pm2 (para instalar)
 
