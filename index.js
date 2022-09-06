@@ -3977,5 +3977,8 @@ break
 			console.log('Error : %s', color(e, 'red'))
 		}
 	})
-}
+// for multi-device
+import makeWASocket from '@adiwajshing/baileys'
+// for legacy web
+import {makeWALegacySocket} from '@adiwajshing/baileys'
 starts()
